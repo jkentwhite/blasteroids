@@ -1,0 +1,1 @@
+function helloWorld() {const hello = "hello"; const world = "world"};
